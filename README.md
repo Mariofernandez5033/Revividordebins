@@ -1,0 +1,2 @@
+# Revividordebins
+Script termux
