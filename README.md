@@ -5,13 +5,13 @@ script extrapolador de bins, revive y saca lives con el metodo de sofia
 
 apt update && apt upgrade -y
 
-git clone  https://github.com/AngelV1p/Bin_Resucitate.git
+git clone  https://github.com/Mariofernandez5033/Revividordebins
 
-cd Bin_Resucitate
+cd Revividordebins
 
-chmod 777 Bin_Resucitate.sh
+chmod 777 Revividordebins.sh
 
-./Bin_Resucitate.sh
+./Revividordebins.sh
 
 
 
